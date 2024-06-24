@@ -18,7 +18,7 @@ html {
     font-size: 105%;
     box-sizing: border-box;
 }
-
+/*All other element will inherit border-box property!*/
 *, *:before, *:after {
     box-sizing: inherit;
 }
